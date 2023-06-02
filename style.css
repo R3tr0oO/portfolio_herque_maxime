@@ -254,6 +254,14 @@ input[type="email"].cyberpunk {
   z-index: -1;
 }
 
+.img-menu {
+  height: auto;
+  max-width: 70px;
+  margin-right: 35px;
+  margin-bottom: 35px;
+}
+
+
 @keyframes glitch {
   /* Création de la suite de frames, permettant une animation "Glitch", en fonction du temps de survol par la souris */
   0% {
